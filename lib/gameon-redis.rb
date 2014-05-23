@@ -1,2 +1,1 @@
-require "gameon/redis/version"
-require_relative './gameon-redis/base'
+require 'gameon-redis/base'
