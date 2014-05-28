@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "gameon-redis"
-  spec.version       = "0.0.0.pre5" 
+  spec.version       = "0.0.0.pre37" 
   spec.authors       = ["theotherstupidguy"]
   spec.email         = ["theotherstupidguy@gmail.com"]
   spec.summary       = "redis persistence for gameon" 
